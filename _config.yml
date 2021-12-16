@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jonathan Markel"
-  avatar           : "profile.png"
+  avatar           : "jcm_profile.jpeg"
   bio              : "Graduate Student at The University of Texas at Austin. This site is under construction!"
   location         : "Austin, TX"
   employer         :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/j-markel/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "j-markel"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me 1"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 This is my about me section.
 
-This is a subsection header in my about me section.
+Research Interests
 ======
 
 This is a subsubsection header.
