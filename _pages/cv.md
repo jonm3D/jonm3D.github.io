@@ -18,18 +18,39 @@ Education
 
 Work experience
 ======
+* 2021-2022: Graduate Research Assistant
+  * The University of Texas at Austin
+     * Investigating applications of ICESat-2 bathymetry for coral reef health assessment
+     * Exploring potential applications of ICESat-2 – synthetic-aperture-radar fusion
+  * Supervisor: Dr. Lori Magruder
+
 * 2020-2021: Engineering Scientist Associate
-  * Applied Research Laboratories
-  * Duties included:
+  * Applied Research Laboratories: The University of Texas at Austin
     * Lead development of prototype bathymetry detection algorithm for ICESat-2 data
-    * More stuff here
+    * Analyzed and improved quality of ICESat-2 land and vegetation data products
+    * Developed machine learning software for analysis of space-based LIDAR data
   * Supervisors: Dr. Lori Magruder and Dr. Amy Neuenschwander
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Fall 2019: Undergradaute Researcher
+  * Applied Research Laboratories: The University of Texas at Austin
+    * Analyzed NASA ICESat-2 atmospheric profiles and calculate effect on surface signal
+    * Created predictive model for signal attenuation based on atmospheric features 
+ 
+* Summer 2018: Student Scientist
+  * Southwest Research Institute
+    * Developed machine learning models for the classification of supernovae spectra
+    * Investigated statistical methods for correlating early epoch supernovae with models
+
+* Spring 2018: Undergraduate Researcher
+  * Center for Space Research: The University of Texas at Austin
+    * Modeled vulnerability to natural hazards in Texas using Census estimates
+    * Identified risk factors for 21,000 Census block-groups in Python and dynamically mapped results in ArcGIS
+
+* Summer 2017: Research Intern
+  * NASA Langley Research Center
+    * Designed & operated autonomous unmanned aerial system of 3 independent vehicles
+    * Developed autonomous linked stabilization & flight capabilities for UAS
+
 Skills
 ======
 * Software Development
@@ -45,6 +66,7 @@ Skills
 Aerospace Coursework
 ======
 * Mission Analysis and Design
+* Space Systems Engineering and Design
 * Applied Orbital Mechanics
 * Celestial Mechanics
 * Attitude Dynamics
@@ -53,18 +75,6 @@ Aerospace Coursework
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
