@@ -35,21 +35,26 @@ Work experience
   * Applied Research Laboratories: The University of Texas at Austin
     * Analyzed NASA ICESat-2 atmospheric profiles and calculate effect on surface signal
     * Created predictive model for signal attenuation based on atmospheric features 
+  * Supervisor: Dr. Brad Klotz
  
 * Summer 2018: Student Scientist
   * Southwest Research Institute
     * Developed machine learning models for the classification of supernovae spectra
     * Investigated statistical methods for correlating early epoch supernovae with models
+  * Supervisor: Dr. Amanda Bayless  
 
 * Spring 2018: Undergraduate Researcher
   * Center for Space Research: The University of Texas at Austin
     * Modeled vulnerability to natural hazards in Texas using Census estimates
     * Identified risk factors for 21,000 Census block-groups in Python and dynamically mapped results in ArcGIS
+  * Supervisor: Dr. Gordon Wells
 
 * Summer 2017: Research Intern
   * NASA Langley Research Center
     * Designed & operated autonomous unmanned aerial system of 3 independent vehicles
     * Developed autonomous linked stabilization & flight capabilities for UAS
+  * Supervisor: Dr. Elizabeth Ward
+
 
 Skills
 ======
