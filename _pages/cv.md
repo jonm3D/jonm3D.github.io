@@ -11,16 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Aerospace Engineering, The University of Texas at Austin, 2019
+* M.S. in Aerospace Engineering, The University of Texas at Austin, 2023 (expected)
+* Ph.D in Aerospace Engineering, The University of Texas at Austin, 2025 (expected)
+  * Advised by Dr. Lori Magruder
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2021: Engineering Scientist Associate
+  * Applied Research Laboratories
+  * Duties included:
+    * Lead development of prototype bathymetry detection algorithm for ICESat-2 data
+    * More stuff here
+  * Supervisors: Dr. Lori Magruder and Dr. Amy Neuenschwander
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,12 +32,23 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Development
+  * Python
+  * MATLAB
+
+* Geospatial Analysis
+  * ArcGIS/QGIS
+  * ENVI
+  * QT Modeler
+  * PDAL/GDAL
+
+Aerospace Coursework
+======
+* Mission Analysis and Design
+* Applied Orbital Mechanics
+* Celestial Mechanics
+* Attitude Dynamics
+* Remote Sensing for Geoscience
 
 Publications
 ======
@@ -56,4 +70,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* President and Co-founder, Students for the Exploration and Development of Space at UT Austin
