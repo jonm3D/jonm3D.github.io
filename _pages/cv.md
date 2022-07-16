@@ -7,18 +7,17 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ======
 * B.S. in Aerospace Engineering, The University of Texas at Austin, 2019
 * M.S. in Aerospace Engineering, The University of Texas at Austin, 2023 (expected)
 * Ph.D in Aerospace Engineering, The University of Texas at Austin, 2025 (expected)
-  * Advised by Dr. Lori Magruder
 
-Work experience
+Experience
 ======
-## 2021-2022: Graduate Research Assistant
+## 2021-Current: Graduate Research Assistant
   * The University of Texas at Austin
      * Investigating applications of ICESat-2 bathymetry for coral reef health assessment
      * Exploring potential applications of ICESat-2 – synthetic-aperture-radar fusion
