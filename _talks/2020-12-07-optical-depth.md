@@ -2,7 +2,7 @@
 title: "Development and Validation of an Alternative Column Optical Depth Parameter for ICESat-2 and its Use for Evaluating Ground Surface Signal Retrieval Quality"
 collection: talks
 type: "Conference proceeding"
-permalink: /talks/2020-12-07-optical-depth.md
+permalink: /talks/2020-12-07-optical-depth
 venue: "American Geophysical Union, Fall Meeting 2020"
 date: 2020-12-07
 location: "Virtual"
