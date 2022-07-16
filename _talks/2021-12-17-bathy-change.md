@@ -8,7 +8,7 @@ date: 2021-12-17
 location: "New Orleans, Louisiana"
 ---
 
-[Read](/publication/bathymetric-change) the resulting paper.
+[Read](https://j3d.space/publication/bathymetric-change) the resulting paper.
 
 **Presenter**: Joan Herrmann
 
