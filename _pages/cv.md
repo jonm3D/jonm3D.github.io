@@ -83,6 +83,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Conference Proceedings
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
 Service and leadership
 ======
 * 2017-2019 President and Co-founder, Students for the Exploration and Development of Space at UT Austin
