@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/icesat2-volcanoes
 excerpt: 'This paper demonstrates the potential for space-based monitoring of submarine volcanoes and new islands with ICESat-2. I originated the paper idea, identified Fukutoku-Okanaba as a potential observation target and provided classified point clouds for analysis. 
 <br/><br/><img src="/images/volcano_dem.png"  width="650" class="center">'
-date: 2021-10-01
+date: 2021-01-14
 venue: 'Geosciences'
 paperurl: 'https://doi.org/10.3390/geosciences12010040'
 citation: 'Simurda, C.; Magruder, L.A.; <b>Markel, J.</b>; Garvin, J.B.; Slayback, D.A. ICESat-2 Applications for Investigating Emerging Volcanoes. Geosciences 2022, 12, 40.'
