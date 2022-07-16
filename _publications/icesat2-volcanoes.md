@@ -2,7 +2,7 @@
 title: "ICESat-2 Applications for Investigating Emerging Volcanoes"
 collection: publications
 permalink: /publication/icesat2-volcanoes.md
-excerpt: 'This paper demonstrates the potential for space-based monitoring of submarine volcanoes with ICESat-2 laser altimetry.'
+excerpt: 'This paper demonstrates the potential for space-based monitoring of submarine volcanoes and new islands with ICESat-2.'
 date: 2021-10-01
 venue: 'Geosciences'
 paperurl: 'https://doi.org/10.3390/geosciences12010040'
