@@ -15,13 +15,7 @@ My work lies at the intersection of statistics, lidar/geospatial analysis, and e
 
 Starting in September 2022, I will be supported by a NASA FINESST grant to study coastal elevation modeling with ICESat-2 and other satellite data. This research will be focused on Arctic environments where surveying is challenging due to sea ice and turbidity, but especially important as coastal erosion accelerates.
 
-The examples below shows what kind of data ICESat-2 can provide along coastlines. 
-
-Single track (Southern Alaska)
-
 <figure>
   <img src="/images/topobathy_profile.png"  width="600">
   <figcaption>Example of ICESat-2 coastal data off the coast of Southern Alaska.</figcaption>
 </figure>
-
-
