@@ -18,4 +18,10 @@ Starting in September 2022, I will be supported by a NASA FINESST grant to study
 The examples below shows what kind of data ICESat-2 can provide along coastlines. 
 
 Single track (Southern Alaska)
-<img src="/images/topobathy_profile.png"  width="600">
+
+<figure>
+  <img src="/images/topobathy_profile.png"  width="600">
+  <figcaption>Example of ICESat-2 coastal data off the coast of Southern Alaska.</figcaption>
+</figure>
+
+
