@@ -13,7 +13,7 @@ citation: 'Herrmann, J.; Magruder, L.A.; <b>Markel, J.</b>; Parrish, C.E. Assess
 Description here...
 
 <figure>
-  <img src="/images/volcano_dem.png"  width="600">
+  <img src="/images/bathy-change-ex.png"  width="600">
   <figcaption>From the paper: (Top): JABLTCX bathymetric change raster (reference data set). (Bottom): IS-2/SDB bathymetric change raster generated through the methods of this study. Red denotes areas of erosion (hence, a positive bathymetric change or deepening), while green denotes areas of deposition (hence, a negative bathymetric change, or shoaling).</figcaption>
 </figure>
 
