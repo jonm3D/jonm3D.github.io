@@ -9,72 +9,46 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-Education
-======
+## Education
 * B.S. in Aerospace Engineering, The University of Texas at Austin, 2019
 * M.S. in Aerospace Engineering, The University of Texas at Austin, 2023 (expected)
 * Ph.D in Aerospace Engineering, The University of Texas at Austin, 2025 (expected)
 
-Experience
-======
-## 2021-Current: Graduate Research Assistant
-  * The University of Texas at Austin
-     * Investigating applications of ICESat-2 bathymetry for coral reef health assessment
-     * Exploring potential applications of ICESat-2 – synthetic-aperture-radar fusion
-  * Supervisor: Dr. Lori Magruder
+## Experience
 
-## 2020-2021: Engineering Scientist Associate
-  * Applied Research Laboratories: The University of Texas at Austin
-    * Lead development of prototype bathymetry detection algorithm for ICESat-2 data
-    * Analyzed and improved quality of ICESat-2 land and vegetation data products
-    * Developed machine learning software for analysis of space-based LIDAR data
-  * Supervisors: Dr. Lori Magruder and Dr. Amy Neuenschwander
+### The University of Texas at Austin 
+#### Graduate Research Assistant (2021-Current)
+* 2022 NASA FINESST Grant: 'Investigating Arctic Coastal Erosion Through Satellite-Derived Elevation Modeling 
+and Scalable ICESat-2 Bathymetric Data Fusion'
+* Supervisor: Dr. Lori Magruder
 
-## Fall 2019: Undergraduate Researcher
-  * Applied Research Laboratories: The University of Texas at Austin
-    * Analyzed NASA ICESat-2 atmospheric profiles and calculate effect on surface signal
-    * Created predictive model for signal attenuation based on atmospheric features 
-  * Supervisor: Dr. Brad Klotz
+#### Engineering Scientist Associate, *Applied Research Laboratories* (2020-2021)
+* Lead development of prototype bathymetry detection algorithm for ICESat-2 data
+* Analyzed and improved quality of ICESat-2 land and vegetation data products
+* Developed machine learning software for analysis of space-based LIDAR data
+* Supervisors: Dr. Lori Magruder and Dr. Amy Neuenschwander
+
+#### Undergraduate Researcher, *Applied Research Laboratories* (Fall 2019)
+* Analyzed NASA ICESat-2 atmospheric profiles and calculate effect on surface signal
+* Created predictive model for signal attenuation based on atmospheric features 
+* Supervisor: Dr. Brad Klotz
+
+#### Undergraduate Researcher, *Center for Space Research* (Spring 2018)
+* Modeled vulnerability to natural hazards in Texas using Census estimates
+* Identified risk factors for 21,000 Census block-groups in Python and dynamically mapped results in ArcGIS
+* Supervisor: Dr. Gordon Wells
  
-## Summer 2018: Student Scientist
-  * Southwest Research Institute
-    * Developed machine learning models for the classification of supernovae spectra
-    * Investigated statistical methods for correlating early epoch supernovae with models
-  * Supervisor: Dr. Amanda Bayless  
+### Southwest Research Institute
+#### Student Scientist (Summer 2018)
+* Developed machine learning models for the classification of supernovae spectra
+* Investigated statistical methods for correlating early epoch supernovae with models
+* Supervisor: Dr. Amanda Bayless  
 
-## Spring 2018: Undergraduate Researcher
-  * Center for Space Research: The University of Texas at Austin
-    * Modeled vulnerability to natural hazards in Texas using Census estimates
-    * Identified risk factors for 21,000 Census block-groups in Python and dynamically mapped results in ArcGIS
-  * Supervisor: Dr. Gordon Wells
-
-## Summer 2017: Research Intern
-  * NASA Langley Research Center
-    * Designed & operated autonomous unmanned aerial system of 3 independent vehicles
-    * Developed autonomous linked stabilization & flight capabilities for UAS
-  * Supervisor: Dr. Elizabeth Ward
-
-
-Skills
-======
-* Software Development
-  * Python
-  * MATLAB
-
-* Geospatial Analysis
-  * ArcGIS/QGIS
-  * ENVI
-  * QT Modeler
-  * PDAL/GDAL
-
-Aerospace Coursework
-======
-* Mission Analysis and Design
-* Space Systems Engineering and Design
-* Applied Orbital Mechanics
-* Celestial Mechanics
-* Attitude Dynamics
-* Remote Sensing for Geoscience
+### NASA Langley Research Center
+#### Research Intern (Summer 2017)
+* Designed & operated autonomous unmanned aerial system of 3 independent vehicles
+* Developed autonomous linked stabilization & flight capabilities for UAS
+* Supervisor: Dr. Elizabeth Ward
 
 Publications
 ======
