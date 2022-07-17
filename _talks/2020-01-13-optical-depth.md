@@ -2,7 +2,7 @@
 title: "Exploring the Cloud Optical Depth Effect on ICESat-2's Surface Signal Determination"
 collection: talks
 type: "Poster"
-permalink: 2020-01-13-optical-depth.md
+permalink: /talks/2020-01-13-optical-depth
 venue: "100th American Meteorological Society Annual Meeting"
 date: 2020-01-13
 location: "Boston, Massachusetts"
