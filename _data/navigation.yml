@@ -4,6 +4,9 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "OpenOceans"
+    url: /open-oceans/
+    
   - title: "Portfolio"
     url: /portfolio/
      
