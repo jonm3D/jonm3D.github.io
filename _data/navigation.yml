@@ -3,7 +3,10 @@ main:
 
   - title: "Publications"
     url: /publications/
-    
+  
+  - title: "OpenOceans"
+    url: /openoceans/
+  
   - title: "Portfolio"
     url: /portfolio/
      
