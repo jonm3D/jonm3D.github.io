@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Jonathan Markel"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Jonathan Markel"
-description              : &description "Graduate Student at The University of Texas at Austin"
+description              : &description "Graduate Student working on mapping oceans from space and ICESat-2."
 url                      : https://jonm3d.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jonm3d.github.io"
