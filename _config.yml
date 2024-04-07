@@ -81,40 +81,20 @@ analytics:
 # Site Author
 author:
   name             : "Jonathan Markel"
-  avatar           : "jcm_profile.jpeg"
-  bio              : "Graduate Student at The University of Texas at Austin. This site is under construction!"
+  avatar           : "jcm_profile_blue.jpg"
+  bio              : "PhD Student at The University of Texas at Austin"
   location         : "Austin, TX"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KwxwFgYAAAAJ&view_op=list_works&gmla=AJsN-F7_BBT98yBTsqlKgh2Ve7dxiPdTm8EwsNnTZOR8nPmH51xeGaUdDdKjSJLA3nN9t7tbDlrXVI9DoAH8lQMaAHgvY3I0vvMn9eZCNKnygecd0dYm1YY#"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
   flickr           :
-  facebook         :
-  foursquare       :
   github           : "JonM3D"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : 
-  lastfm           :
   linkedin         : "j-markel"
   orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "jonm3d"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+
 
 
 # Reading Files

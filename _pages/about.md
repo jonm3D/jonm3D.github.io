@@ -7,15 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student using satellite data to solve challenges related to climate change. I currently work in the [3D Geospatial Laboratory](https://magruder3dgl.com/) at The University of Texas at Austin Department of Aerospace Engineering.
+I am a PhD student and experienced Python developer using satellite data to solve challenges related to climate change, particularly relating to topographic change and elevation modeling. I currently work in the [3D Geospatial Laboratory](https://magruder3dgl.com/) at The University of Texas at Austin Department of Aerospace Engineering.
 
 Research Interests
 ======
-Starting in September 2022, I will be supported by a NASA FINESST grant to study coastal elevation modeling with ICESat-2 and other satellite data. This research will be focused on Arctic environments where surveying is challenging due to sea ice and turbidity, but especially important as coastal erosion accelerates.
+I am supported through a NASA FINESST graduate fellowship to investigate satellite-derived measurements of Arctic coastal change. This includes direct observations of shallow water bathymetry and nearshore coastal topography using ICESat-2 photon-counting lidar data, digital elevation models derived from stereophotogrammetry, and satellite-derived bathymetry using Sentinel-2 and other on-orbit optical imagery sources. I am especially driven to improve monitoring and resilience in coastal environments and the cryosphere - two key areas at the front lines of our changing climate.
 
-<figure>
-  <img src="/images/topobathy_profile.png"  width="600">
-  <figcaption>Example of ICESat-2 coastal data off the coast of Southern Alaska.</figcaption>
-</figure>
+I am especially excited to talk and learn about...
+- Open-source geospatial software development
+- Remote sensing product algorithms
+- Cloud-native formats and infrastructure for analyzing Earth observation data
 
-My research combines statistics, geospatial data science, and environmental modeling. Much of what I do uses NASA's [ICESat-2](https://www.nasa.gov/content/goddard/icesat-2) space-based laser altimeter. ICESat-2 provides extremely high-accuracy global elevation measurements which are used to monitor [ice sheets](https://www.science.org/doi/10.1126/science.aaz5845), [boreal biomass](https://ceos.org/gst/icesat2-boreal-biomass.html), and [seafloor depths (aka bathymetry)](https://www.mdpi.com/2072-4292/11/14/1634). This can be a vital source of data for coastal/reef monitoring and safe maritime navigation in regions that would otherwise be hard to reach with survey teams.
+Additional work has been supported by the NASA ICESat-2 Science Team, the NASA Decadal Survey Incubation Surface Topography and Vegetation Team, and National Geospatial Intelligence Agency programs. 
+
+I am currently seeking full-time staff research, software development, or analytics positions starting in the Summer of 2025.
