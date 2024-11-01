@@ -1,0 +1,53 @@
+/* Reset basic styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Centering container */
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+}
+
+/* Center column with some padding */
+.container {
+    max-width: 600px;
+    padding: 20px;
+    text-align: center;
+    line-height: 1.6;
+}
+
+/* Header style */
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* List styling */
+.intro-list {
+    list-style-type: none;
+    padding-left: 0;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.intro-list li {
+    margin-bottom: 10px;
+}
+
+/* Link styling */
+a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
